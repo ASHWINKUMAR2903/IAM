@@ -1,7 +1,7 @@
 # IAM
 # EX - 6 Implementation Of Identity Management (Amazon Iam) For Your Team.
-# NAME: Sanjeev D
-# REG NO: 212223040185
+# NAME: ASHWIN KUMAR A
+# REG NO: 212222100006
 ## Aim
 
 To implement Identity and Access Management (IAM) in AWS to securely control access to resources by creating and managing IAM users, groups, roles, and policies for team collaboration.
